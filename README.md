@@ -1,5 +1,5 @@
 # Create Your Own Chatbot Website with Open Source LLMs
-## Author : vicky & JC-IBM
+## Author : Vicky & JC-IBM
 
 Mentee assignment from IBM Advance AI @ Infinite Learning
 Course completion of Create Your Own Chatbot Website with Open Source LLMs from CognitiveClass.ai
